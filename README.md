@@ -1,4 +1,4 @@
-# palm-leaf-character-segmentation
+# Palm-Leaf-Character-Segmentation
 A project did to explore the subjects of cv and Neural Networks 
 
 ##Project Overview:
